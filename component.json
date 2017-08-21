@@ -1,0 +1,13 @@
+{
+  "name": "event-base",
+  "repo": "rinterest-team/event-base",
+  "description": "abstract observer and observable",
+  "version": "0.1.0",
+  "keywords": ["event", "event-base"],
+  "scripts": ["index.js"],
+  "files": ["lib/**"],
+  "license": "MIT",
+  "dependencies": {
+    "rinterest-team/util": "0.1.x",
+  },
+}
