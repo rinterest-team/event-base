@@ -8,6 +8,6 @@
   "files": ["lib/**"],
   "license": "MIT",
   "dependencies": {
-    "rinterest-team/util": "0.1.x"
+    "rinterest-team/util": "0.1.0"
   }
 }
